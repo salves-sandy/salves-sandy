@@ -1,4 +1,4 @@
-<h1 align="center">Oi👋, eu sou a Sandy Alves</h1>
+<h1 align="center">Oi, eu sou a Sandy Alves</h1>
 <h3 align="center">Estudante de análise e desenvolvimento de sistemas</h3>
 
 - 🌱Atualmente estou aprendendo **Java e Machine Learning**
