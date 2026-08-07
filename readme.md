@@ -16,13 +16,13 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
 Profissional de **Customer Experience** e **Relacionamento Comercial** com base técnica em **Banco de Dados** e **Inteligência Artificial**. Atuo na ponte entre atendimento humanizado e análise de dados — utilizando **SQL**, automação e visão comercial para resolver problemas reais de clientes.
 
 ---
 
-## 🚀 Projetos em Destaque
+##  Projetos em Destaque
 
 | Projeto | Descrição |
 | :--- | :--- |
@@ -32,14 +32,14 @@ Profissional de **Customer Experience** e **Relacionamento Comercial** com base 
 
 ---
 
-## 🎓 Formação Acadêmica
+##  Formação Acadêmica
 
 * **Pós-Graduação em Banco de Dados e Inteligência Artificial** — *UNINTER*
 * **CST em Análise e Desenvolvimento de Sistemas** — *Unisanta*
 
 ---
 
-## 🐍 Gráfico de Contribuições
+##  Gráfico de Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/salves-sandy/salves-sandy/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -48,5 +48,5 @@ Profissional de **Customer Experience** e **Relacionamento Comercial** com base 
 <br />
 
 <div align="center">
-  <sub>📍 São Vicente, SP — Brasil</sub>
+  <sub> São Vicente, SP — Brasil</sub>
 </div>
