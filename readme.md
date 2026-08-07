@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Sandy Alves</h1>
-  <p><strong>Construindo pontes entre tecnologia e clientes</strong></p>
+  <p><strong>Conectando experiência do cliente, tecnologia e dados para criar soluções mais eficientes.</strong></p>
   <p><i>CX · Suporte Técnico · Banco de Dados · Criação de Conteúdo</i></p>
 
   <p>
@@ -11,8 +11,8 @@
 
   <br />
 
-  <img src="https://skillicons.dev/icons?i=mysql,azure,python,java,git,github,aws,html,css,notion&theme=light" alt="Tecnologias" />
-</div>
+##  Tecnologias 
+  <img src="https://skillicons.dev/icons?i=python,mysql,azure,aws,git,github,vscode,notion&theme=light" alt="Tecnologias" />
 
 ---
 
