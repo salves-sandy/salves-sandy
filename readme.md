@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Sandy Alves</h1>
   <p><strong>Conectando experiência do cliente, tecnologia e dados para criar soluções mais eficientes.</strong></p>
-  <p><i>CX · Suporte Técnico · Banco de Dados · Criação de Conteúdo</i></p>
+  <p><i>CX · Suporte Técnico · Banco de Dados · Tutoriais técnicos · Documentação</i></p>
 
   <p>
     <a href="https://salves-sandy.github.io/"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" /></a>
