@@ -4,21 +4,21 @@
   <p><i>CX · Suporte Técnico · Banco de Dados · Criação de Conteúdo</i></p>
 
   <p>
-    <a href="SEU_LINK_DO_PORTFOLIO"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" /></a>
-    <a href="SEU_LINK_DO_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:SEU_EMAIL@DOMINIO.COM"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+    <a href="https://salves-sandy.github.io/"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" /></a>
+    <a href="linkedin.com/in/sandy-salves"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:salves.sandy@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   </p>
 
   <br />
 
-  <img src="https://skillicons.dev/icons?i=mysql,azure,python,java,git,github,html,css,notion&theme=light" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=mysql,azure,python,java,git,github,aws,html,css,notion&theme=light" alt="Tecnologias" />
 </div>
 
 ---
 
 ##  Sobre mim
 
-Profissional de **Customer Experience** e **Relacionamento Comercial** com base técnica em **Banco de Dados** e **Inteligência Artificial**. Atuo na ponte entre atendimento humanizado e análise de dados — utilizando **SQL**, automação e visão comercial para resolver problemas reais de clientes.
+Profissional de **Customer Experience** e **Suporte técnico** com base em **Banco de Dados** e **Inteligência Artificial**. Atuo na ponte entre atendimento humanizado e análise de dados, utilizando **SQL**, automação e visão comercial para resolver problemas reais de clientes.
 
 ---
 
@@ -28,14 +28,14 @@ Profissional de **Customer Experience** e **Relacionamento Comercial** com base 
 | :--- | :--- |
 | [`dba-scripts`](https://github.com/salves-sandy/dba-scripts) | Scripts para backup, permissões e monitoramento de performance em SQL Server |
 | [`sql-queries`](https://github.com/salves-sandy/sql-queries) | Consultas otimizadas e análise de performance em SQL Server e MySQL |
-| **Tutoriais & Cartilhas** | Materiais de treinamento e roteiros de vídeo — publicados no Notion |
+| **Tutoriais & Cartilhas** | Materiais de treinamento e roteiros de vídeo — publicados no [`Notion`](https://app.notion.com/p/Tutoriais-3b52451eec1280698a5ccf2a60f95707?source=copy_link)  |
 
 ---
 
 ##  Formação Acadêmica
 
 * **Pós-Graduação em Banco de Dados e Inteligência Artificial** — *UNINTER*
-* **CST em Análise e Desenvolvimento de Sistemas** — *Unisanta*
+* **Graduação em Análise e Desenvolvimento de Sistemas** — *Universidade Santa Cecília*
 
 ---
 
