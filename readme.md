@@ -5,7 +5,7 @@
 
   <p>
     <a href="https://salves-sandy.github.io/"><img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfólio" /></a>
-    <a href="linkedin.com/in/sandy-salves"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/sandy-salves"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:salves.sandy@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
   </p>
 
