@@ -34,7 +34,7 @@ Profissional de **Customer Experience** e **Suporte técnico** com base em **Ban
 
 ##  Formação Acadêmica
 
-* **Pós-Graduação em Banco de Dados e Inteligência Artificial** — *UNINTER*
+* **Pós-Graduação em Ciências de Dados e Inteligência Artificial** — *UNINTER*
 * **Graduação em Análise e Desenvolvimento de Sistemas** — *Universidade Santa Cecília*
 
 ---
