@@ -28,7 +28,7 @@ Profissional de **Customer Experience** e **Suporte técnico** com base em **Ban
 | :--- | :--- |
 | [`dba-scripts`](https://github.com/salves-sandy/dba-scripts) | Scripts para backup, permissões e monitoramento de performance em SQL Server |
 | [`sql-queries`](https://github.com/salves-sandy/sql-queries) | Consultas otimizadas e análise de performance em SQL Server e MySQL |
-| **Tutoriais & Cartilhas** | Materiais de treinamento e roteiros de vídeo — publicados no [`Notion`](https://app.notion.com/p/Tutoriais-3b52451eec1280698a5ccf2a60f95707?source=copy_link)  |
+| **Tutoriais & Cartilhas** | Materiais de treinamento e roteiros de vídeo publicados no [Notion](https://www.notion.so/18e2451eec12834f8e9a81fdbd30b81d) |
 
 ---
 
